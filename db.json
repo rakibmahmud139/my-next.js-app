@@ -1,0 +1,40 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "title": "Men's Running Shoes",
+      "description": "Comfortable and durable shoes for daily running sessions.",
+      "price": 99.99
+    },
+    {
+      "id": 2,
+      "title": "Women's Athletic Sneakers",
+      "description": "Lightweight and stylish sneakers designed for women's sports activities.",
+      "price": 100
+    },
+    {
+      "id": 3,
+      "title": "Unisex Casual Shoes",
+      "description": "Versatile shoes suitable for both men and women for casual wear.",
+      "price": 91.99
+    },
+    {
+      "id": 4,
+      "title": "Kids' Sports Shoes",
+      "description": "Colorful and supportive shoes perfect for active kids.",
+      "price": 39.99
+    },
+    {
+      "id": 5,
+      "title": "Trail Running Shoes",
+      "description": "Sturdy and rugged shoes built for off-road trail running.",
+      "price": 89.99
+    },
+    {
+      "id": 6,
+      "title": "Men's Basketball Sneakers",
+      "description": "High-top sneakers with excellent ankle support for basketball players.",
+      "price": 109.99
+    }
+  ]
+}
